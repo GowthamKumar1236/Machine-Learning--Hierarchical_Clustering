@@ -1,1 +1,1 @@
-# Machine-learning - Hierarchical clustering 
+# Machine Learning - Hierarchical clustering 
